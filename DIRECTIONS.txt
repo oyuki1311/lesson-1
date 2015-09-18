@@ -1,0 +1,15 @@
+Learn to do the following using only CSS with the banana floor files.
+
+Body tag
+  Add yellow background color
+Image tag
+  Change height and width to 150 pixels
+  Add 80 pixel rounded corners
+H1 - H3 tags
+  Change text color to blue
+H4 - H6 tags
+  Change text color to red
+  Add underline to text
+Paragraph tags
+  Change background color to black
+  Change text color to white
